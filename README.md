@@ -4,12 +4,12 @@ For this take home challenge we will be creating an advent calendar that shows a
 
 It should:
 
-- [] Allow the user to enter a date manually that allows you to simulate the current day of December.
-- [] Allow the user to see a visual representation of 25 windows/doors where each represents a day of the month. 
-- [] Allow the user to click and open each window/door, behind which they will see a random video clip or image.
-- [] Play videos after a door has been opened.
-- [] Only allow the user to click on the window when the door representing the day of the month is exactly, or after, the simulated current date (i.e. you can only open the door for the 14th of December, if the simulated date is on or after the 14th of december).
-- [] Track which users have opened which doors between refreshes by loading and saving the state to the browser’s localStorage.
+- [ ] Allow the user to enter a date manually that allows you to simulate the current day of December.
+- [ ] Allow the user to see a visual representation of 25 windows/doors where each represents a day of the month. 
+- [ ] Allow the user to click and open each window/door, behind which they will see a random video clip or image.
+- [ ] Play videos after a door has been opened.
+- [ ] Only allow the user to click on the window when the door representing the day of the month is exactly, or after, the simulated current date (i.e. you can only open the door for the 14th of December, if the simulated date is on or after the 14th of december).
+- [ ] Track which users have opened which doors between refreshes by loading and saving the state to the browser’s localStorage.
 
 
 Stretch
